@@ -1,0 +1,9 @@
+*.csv
+*.jpg
+*.png
+*.pth
+*.npz
+*.gz
+*.ckpt
+*.zip
+*.json
